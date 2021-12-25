@@ -62,6 +62,7 @@ Molemmat voi tehdä samalla tavalla
 - Sekoita valkosuklaa kulhoon muiden ainesosien kanssa 
 - Kaada puolet glögistä tai Baileysistä "taikinan" joukkoon ja sekoita
 - Lisää hieman jäähtynyt liivateneste taikinan joukkoon tasaisesti ohuena nauhana
+- Kääntele kermavaahto loppujen aineiden joukkoon
 - Kaada täyte pohjan päälle ja laita jääkaappiin odottamaan vähintään neljäksi tunniksi
 
 ### Kiille
