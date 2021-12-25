@@ -31,15 +31,15 @@
 
 ## Valmistusohjeet
 
-- pilko sipulit ja sienet valmiiksi
-- pistä spagettivesi kiehumaan ja halutessasi keitä spagetti jo tässä vaiheessa
-- kuori ja murskaa (tai pilko) valkosipulinkynnet ja kuullota kevyesti öljyssä keskilämmöllä paistinpannussa, jauhe lisätään muiden mausteiden mukana vasta
-- siirrä kynnenpalaset pannun sivuun missä ne eivät pala pohjaan, ruskista jauheliha
-- lisää liemikuutio, mausteet, soija ja sienet, sekoittele
-- kuullota sipuli kasarissa / pienessä kattilassa: korkea lämpö, öljyä ja jatkuvasti sekottaen, kunnes sipuli alkaa läpikuultaa
-- lisää paistinpannulla oleva tavara sipulien sekaan (tai toisinpäin)
-- lisää tomaattimurska ja muu tomaattiaines
-- joukkoon voi lisätä vettä sopivan paksuuden aikaansaamiseksi
+1. pilko sipulit ja sienet valmiiksi
+2. pistä spagettivesi kiehumaan ja halutessasi keitä spagetti jo tässä vaiheessa
+3. kuori ja murskaa (tai pilko) valkosipulinkynnet ja kuullota kevyesti öljyssä keskilämmöllä paistinpannussa, jauhe lisätään muiden mausteiden mukana vasta
+4. siirrä kynnenpalaset pannun sivuun missä ne eivät pala pohjaan, ruskista jauheliha
+5. lisää liemikuutio, mausteet, soija ja sienet, sekoittele
+6. kuullota sipuli kasarissa / pienessä kattilassa: korkea lämpö, öljyä ja jatkuvasti sekottaen, kunnes sipuli alkaa läpikuultaa
+7. lisää paistinpannulla oleva tavara sipulien sekaan (tai toisinpäin)
+8. lisää tomaattimurska ja muu tomaattiaines
+9. joukkoon voi lisätä vettä sopivan paksuuden aikaansaamiseksi
 
 
 

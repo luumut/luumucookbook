@@ -41,30 +41,28 @@
 
 ### Pohja
 
-- voitele vuoka
-- murskaa keksi hienoksi jauheeksi, esim. 2-kertaisen pakastepussin sisällä
-- lisää margariini
-- painele tiukaksi vuoan pohjalle
+1. voitele vuoka
+2. murskaa keksi hienoksi jauheeksi, esim. 2-kertaisen pakastepussin sisällä
+3. lisää margariini
+4. painele tiukaksi vuoan pohjalle
 
 
 ### Täyte
 
-- vatkaa kermaa kunnes säilyttää melko hyvin muotonsa
-- toisessa astiassa loput sekaisin, lisää liivateneste
-- yhdistä varovasti käännellen
-- kaada pohjan päälle
-- anna hyytyä ennen kiilteen kaatoa pari tuntia
+1. vatkaa kermaa kunnes säilyttää melko hyvin muotonsa
+2. toisessa astiassa loput sekaisin, lisää liivateneste
+3. yhdistä varovasti käännellen
+4. kaada pohjan päälle
+5. anna hyytyä ennen kiilteen kaatoa pari tuntia
 
 
 ### Kiille
 
-- kiehauta ainekset
-- keitä hiljalleen kannen alla ~1h, räjähtää jos jättää liian kauaksi valvomatta
-- halutessasi siivilöi siemenet pois
-- lisää liivateneste
-- kaada hyytyneen täytteen päälle varovasti kauhalla
-- siirrä jääkaappiin hyytymään muutamaksi tunniksi
-
-
+1. kiehauta ainekset
+2. keitä hiljalleen kannen alla ~1h, räjähtää jos jättää liian kauaksi valvomatta
+3. halutessasi siivilöi siemenet pois
+4. lisää liivateneste
+5. kaada hyytyneen täytteen päälle varovasti kauhalla
+6. siirrä jääkaappiin hyytymään muutamaksi tunniksi
 
 
