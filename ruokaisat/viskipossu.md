@@ -2,7 +2,6 @@
 
 **3-4 ateriaa**
 
-
 ![tarjoiluehdotus](https://github.com/luumut/luumucookbook/blob/master/media/viskipossu.jpg?raw=true)
 
 
