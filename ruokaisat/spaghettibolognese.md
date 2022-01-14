@@ -2,6 +2,8 @@
 
 **4-8 annosta**
 
+![tarjoiluehdotus](https://github.com/luumut/luumucookbook/blob/master/media/bolognese.jpg?raw=true)
+
 
 ## Ainesosat
 
