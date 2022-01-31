@@ -1,5 +1,7 @@
 ## Karjalanpaisti
 
+![tarjoiluehdotus](https://github.com/luumut/luumucookbook/blob/master/media/karjalanpaisti.jpg?raw=true)
+
 # Ainesosat
 * 2 sipulia 
 * 3 porkkanaa
