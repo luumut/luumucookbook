@@ -40,6 +40,7 @@
 - nokare tuorehiivaa
 - 1 tl sokeria
 - 1.5 dl lämmintä vettä
+- 1 dl turkkilaista jogurttia
 - 7 dl vehnäjauhoa
 - 2 rkl rypsi-/oliiviöljyä
 - 1 tl suolaa
