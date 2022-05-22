@@ -33,7 +33,6 @@
 - 1.5 punasipulia
 - 2 pientä keltasipulia
 - 8 pientä / muutama isompi herkkusieni
-
 - paprikajauhetta
 - valkosipulijauhetta
 - pippuria
