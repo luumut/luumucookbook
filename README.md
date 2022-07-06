@@ -5,12 +5,13 @@ Tänne voi laittaa reseptejä
 Kantsii kansioida jotenkin järkevästi
 
 
-# Sisällysluettelo [2022-06-07]
+# Sisällysluettelo [päivitetty 2022-07-06]
 - Ruokaisat
     - [Carbonara](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/carbonara.md)
     - [Chili con carne](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/chiliconcarne.md)
     - [Dumplings](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/dumplings.md)
     - [Huijaunuudelit](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/huijaunuudelit.md)
+    - [Kanakeitto](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/kanakeitto.md)
     - [Kanapasta pannussa](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/kanapastapannussa.md)
     - [Karjalanpaisti](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/karjalanpaisti.md)
     - [Katkarapuwok](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/katkarapWok.md)
