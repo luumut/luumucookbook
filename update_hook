@@ -1,0 +1,71 @@
+#!/usr/bin/env python3
+
+import os
+
+class LinkObject:
+    name = ""
+    link = ""
+
+
+def is_excluded(path):
+    for e in [".git", "media"]:
+        if e in path:
+            return True
+
+    return False
+
+
+def create_links():
+    # dict{ list[LinkObject] }
+    links = {}
+
+    for root, subdirs, files in os.walk("."):
+        #print(f"{root} {subdirs} {files}")
+        if is_excluded(root):
+            continue
+
+        if root in links:
+            #links[root].append(LinkObject(file))
+            pass
+
+        else:
+            links[root] = []
+
+    return links
+
+
+def get_range(lines):
+    begin = ""
+    end = ""
+
+    for line in lines:
+        # find line "# Sisällysluettelo"
+
+        # find next "#"
+        pass
+
+    return begin, end
+
+
+def main():
+    with open("README.md") as f:
+        lines = f.readlines()
+
+    links = create_links()
+
+    for l in links:
+        print(l)
+
+
+    begin, end = get_range(lines)
+
+    # remove range between
+
+    # insert list of links before range end
+
+    # overwrite README
+
+
+
+main()
+
