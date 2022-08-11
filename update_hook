@@ -2,10 +2,8 @@
 
 import os
 
-class LinkObject:
-    name = ""
-    link = ""
 
+BASE_URL = "https://github.com/luumut/luumucookbook/blob/master/"
 
 def is_excluded(path):
     for e in [".git", "media"]:
@@ -15,36 +13,65 @@ def is_excluded(path):
     return False
 
 
+def remove_extension(filename):
+    index = filename.find(".")
+    return filename[0:index]
+
+
 def create_links():
-    # dict{ list[LinkObject] }
+    # dict{ list[ tuple(name, link) ] }
     links = {}
 
     for root, subdirs, files in os.walk("."):
-        #print(f"{root} {subdirs} {files}")
-        if is_excluded(root):
+
+        if is_excluded(root) or root == ".":
             continue
 
-        if root in links:
-            #links[root].append(LinkObject(file))
-            pass
+        #print(f"{root} {subdirs} {files}")
+        #print(root)
 
-        else:
-            links[root] = []
+        link_list = []
+
+        for file in files:
+            #print(f"    {file}")
+
+            name = remove_extension(file).title()
+            link = BASE_URL + root[2:] +  "/" + file
+
+            link_list.append((name, link))
+
+            #print(link_list[-1])
+
+        links[root] = link_list
 
     return links
 
 
 def get_range(lines):
-    begin = ""
-    end = ""
+    begin = -1
+    end = len(lines) - 1
 
-    for line in lines:
-        # find line "# Sisällysluettelo"
+    for x in range(len(lines)):
 
-        # find next "#"
-        pass
+        if "# Sisällysluettelo".lower() in lines[x].lower():
+            begin = x
+            break
+
+    for x in range(begin+1, len(lines)):
+
+        if "#" in lines[x]:
+            end = x
+            break
+
 
     return begin, end
+
+
+def create_table_of_contents(links):
+
+    contents = []
+
+    return contents
 
 
 def main():
@@ -53,15 +80,29 @@ def main():
 
     links = create_links()
 
+    """
     for l in links:
         print(l)
-
+        print(links[l])
+    """
 
     begin, end = get_range(lines)
 
-    # remove range between
+    print(begin, end)
 
-    # insert list of links before range end
+    head = lines[0:begin]
+    tail = lines[end+1:]
+
+    print("head:")
+    print(head)
+
+    print("tail:")
+    print(tail)
+
+    contents = create_table_of_contents(links)
+
+    new_lines = head + contents + tail
+
 
     # overwrite README
 
