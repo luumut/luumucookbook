@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import os
-
+from datetime import date
 
 BASE_URL = "https://github.com/luumut/luumucookbook/blob/master/"
 
@@ -67,16 +67,22 @@ def get_range(lines):
     return begin, end
 
 
-def create_table_of_contents(links):
+def create_table_of_contents(data):
+    updated = date.today().isoformat()
+    contents = ["# Sisällysluettelo [päivitetty " + updated + "]"]
 
-    contents = []
+    for subdir in sorted(data.keys()):
+        contents.append(f"- {subdir[2:].title()}")
+
+        for pair in data[subdir]:
+            contents.append(f"    - [{pair[0]}]({pair[1]})")
 
     return contents
 
 
 def main():
     with open("README.md") as f:
-        lines = f.readlines()
+        lines = f.read().splitlines()
 
     links = create_links()
 
@@ -93,18 +99,26 @@ def main():
     head = lines[0:begin]
     tail = lines[end+1:]
 
+    """
     print("head:")
     print(head)
 
     print("tail:")
     print(tail)
+    """
 
     contents = create_table_of_contents(links)
 
     new_lines = head + contents + tail
 
+    for l in new_lines:
+        print(l)
 
-    # overwrite README
+    with open("README.md", "w") as f:
+
+        for line in new_lines:
+            f.write(line + "\n")
+
 
 
 
