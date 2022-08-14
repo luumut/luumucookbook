@@ -30,6 +30,7 @@ Kantsii kansioida jotenkin järkevästi
     - [Makkaraperunat](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/makkaraperunat.md)
     - [Mikontaloexperience](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/mikontaloexperience.md)
     - [Possupihvit](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/possupihvit.md)
+    - [Sienipasta](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/sienipasta.md)
     - [Spaghettibolognese](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/spaghettibolognese.md)
     - [Teriyakikana](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/teriyakikana.md)
     - [Uunijuurekset](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/uunijuurekset.md)
