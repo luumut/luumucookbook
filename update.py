@@ -34,6 +34,7 @@ def create_links():
             link = BASE_URL + root[2:] +  "/" + file
             link_list.append((name, link))
 
+        link_list.sort(key=lambda item: item[0])
         links[root] = link_list
 
     return links
