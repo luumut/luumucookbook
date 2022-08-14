@@ -1,5 +1,7 @@
 # Focaccia
 
+![tarjoiluehdotus](https://github.com/luumut/luumucookbook/blob/master/media/focaccia.jpg?raw=true)
+
 ## Ainekset
 - n. 6 dl (5,9 dl) kädenlämpöistä vettä 
 - 7g kuivahiivaa tai 20–25g tuorehiivaa
@@ -10,6 +12,8 @@
 
 **Huom. Leivän paistamisessa kannattaa käyttää hyvin lämpöä johtavaa uunivuokaa, kuten metallista tai valurautaista. Keraamisessa lämmönjohto ei ole niin hyvä, jolloin focaccia ei rapeudu kunnolla. Taikinan voi tarvittaessa myös puolittaa ja paistaa kahdessa osassa / kahtena eri päivänä.**
 
+## Valmistus
+
 1. Sekoita kulhossa kädenlämpöinen vesi, hiiva ja hunaja, ja jätä aktivoitumaan 5 minuutiksi tai kunnes kuplia / vaahtoa muodostuu. 
 2. Sekoita isossa kulhossa jauhot ja suola. Lisää hiivaseos jauhojen sekaan ja sekoita käsin tai lastalla kunnes taikina muovautuu yhtenäiseksi. Taikinaa ei pidä vaivata tai sekoittaa liikaa. Taikinan on tarkoitus olla melko löysähköä ja tahmeaa.
 3. Voitele kulho / taikina 4 ruokalusikallisella oliiviöljyä. Peitä taikina kelmulla niin ettei kulhoon pääse ilmaa. Kohota huoneenlämmössä 8h tai mieluiten jääkaapissa 24–48h.
@@ -19,3 +23,6 @@
 7. Paista uunin keskitasolla 20–30 minuuttia tai kunnes focaccia näyttää kullanruskealta.
 8. Anna leivän jäähtyä hieman ennen kuin irrotat sen uunivuoasta. Anna jäähtyä vielä ritilän päällä ennen nauttimista (yhteensä noin 15min). 
 9. SYÖ!
+
+
+**Leipä maistuu vielä paremmalta paistettuna rasvassa pannulla.**
