@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import os
-from datetime import date
+from datetime import datetime
 
 BASE_URL = "https://github.com/luumut/luumucookbook/blob/master/"
 
@@ -53,7 +53,7 @@ def get_range(lines):
     for x in range(begin+1, len(lines)):
 
         if "#" in lines[x]:
-            end = x
+            end = x-1
             break
 
 
@@ -61,7 +61,7 @@ def get_range(lines):
 
 
 def create_table_of_contents(data):
-    updated = date.today().isoformat()
+    updated = datetime.utcnow().date().isoformat()
     contents = ["# Sisällysluettelo [päivitetty " + updated + "]"]
 
     for subdir in sorted(data.keys()):
@@ -73,7 +73,7 @@ def create_table_of_contents(data):
     return contents
 
 
-def main():
+if __name__ == "__main__":
     with open("README.md") as f:
         lines = f.read().splitlines()
 
@@ -92,5 +92,4 @@ def main():
             f.write(line + "\n")
 
 
-main()
 
