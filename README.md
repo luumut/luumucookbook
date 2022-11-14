@@ -27,6 +27,7 @@ Kantsii kansioida jotenkin järkevästi
     - [Huijaunuudelit](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/huijaunuudelit.md)
     - [Kanakeitto](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/kanakeitto.md)
     - [Kanapastapannussa](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/kanapastapannussa.md)
+    - [Kanavuoka](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/kanavuoka.md)
     - [Karjalanpaisti](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/karjalanpaisti.md)
     - [Katkarapwok](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/katkarapWok.md)
     - [Koftapullat](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/koftapullat.md)
