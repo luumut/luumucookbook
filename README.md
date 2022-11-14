@@ -15,7 +15,7 @@ Kantsii kansioida jotenkin järkevästi
     - [Pizzatäytteet](https://github.com/luumut/luumucookbook/blob/master/leipae/pizzatäytteet.txt)
 - Makeat
     - [Glögivalkosuklaabaileysjuustokakku](https://github.com/luumut/luumucookbook/blob/master/makeat/glögivalkosuklaabaileysjuustokakku.md)
-    - [Haarukkapikkuleivaet](https://github.com/luumut/luumucookbook/blob/master/makeat/haarukkapikkuleivaet.md)
+    - [Haarukkapikkuleivät](https://github.com/luumut/luumucookbook/blob/master/makeat/haarukkapikkuleivät.md)
     - [Letut](https://github.com/luumut/luumucookbook/blob/master/makeat/letut.md)
     - [Marjajuustokakku](https://github.com/luumut/luumucookbook/blob/master/makeat/marjajuustokakku.md)
     - [Raparperipiirakka](https://github.com/luumut/luumucookbook/blob/master/makeat/raparperipiirakka.md)
