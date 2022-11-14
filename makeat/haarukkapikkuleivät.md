@@ -2,8 +2,7 @@
 
 **3 pellillistä keksejä**
 
-https://github.com/luumut/luumucookbook/blob/master/media/haarukkapikkuleivät.jpg
-![alt text](https://github.com/luumut/luumucookbook/blob/master/media/haarukkapikkuleivät.jpg?raw=true)
+![tarjoiluehdotus](https://github.com/luumut/luumucookbook/blob/master/media/haarukkapikkuleivät.jpg?raw=true)
 
 
 ## Ainekset
