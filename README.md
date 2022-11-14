@@ -5,7 +5,7 @@ Tänne voi laittaa reseptejä
 Kantsii kansioida jotenkin järkevästi
 
 
-# Sisällysluettelo [päivitetty 2022-10-20]
+# Sisällysluettelo [päivitetty 2022-11-14]
 - Juomat
     - [Glühwein](https://github.com/luumut/luumucookbook/blob/master/juomat/glühwein.md)
     - [Vesi](https://github.com/luumut/luumucookbook/blob/master/juomat/vesi.md)
@@ -15,6 +15,7 @@ Kantsii kansioida jotenkin järkevästi
     - [Pizzatäytteet](https://github.com/luumut/luumucookbook/blob/master/leipae/pizzatäytteet.txt)
 - Makeat
     - [Glögivalkosuklaabaileysjuustokakku](https://github.com/luumut/luumucookbook/blob/master/makeat/glögivalkosuklaabaileysjuustokakku.md)
+    - [Haarukkapikkuleivaet](https://github.com/luumut/luumucookbook/blob/master/makeat/haarukkapikkuleivaet.md)
     - [Letut](https://github.com/luumut/luumucookbook/blob/master/makeat/letut.md)
     - [Marjajuustokakku](https://github.com/luumut/luumucookbook/blob/master/makeat/marjajuustokakku.md)
     - [Raparperipiirakka](https://github.com/luumut/luumucookbook/blob/master/makeat/raparperipiirakka.md)
