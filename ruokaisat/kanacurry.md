@@ -2,7 +2,7 @@
 
 **4-6 annosta**
 
-![tarjoiluehdotus](https://github.com/luumut/luumucookbook/blob/master/media/kanacurry.jpg?raw=true)
+<img src="https://github.com/luumut/luumucookbook/blob/master/media/kanacurry.jpg?raw=true" width=400></img>
 
 ## Työkalut
 - iso paistinpannu tai kattila
