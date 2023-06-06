@@ -5,7 +5,7 @@ Tänne voi laittaa reseptejä
 Kantsii kansioida jotenkin järkevästi
 
 
-# Sisällysluettelo [päivitetty 2022-12-26]
+# Sisällysluettelo [päivitetty 2023-06-06]
 - Juomat
     - [Glühwein](https://github.com/luumut/luumucookbook/blob/master/juomat/glühwein.md)
     - [Vesi](https://github.com/luumut/luumucookbook/blob/master/juomat/vesi.md)
@@ -39,6 +39,7 @@ Kantsii kansioida jotenkin järkevästi
     - [Sienipasta](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/sienipasta.md)
     - [Spaghettibolognese](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/spaghettibolognese.md)
     - [Teriyakikana](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/teriyakikana.md)
+    - [Tofuriisilla](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/tofuriisilla.md)
     - [Uunijuurekset](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/uunijuurekset.md)
     - [Viskipossu](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/viskipossu.md)
     - [Voikanaraidalla](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/voikanaraidalla.md)
