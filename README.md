@@ -45,6 +45,7 @@ Kantsii kansioida jotenkin järkevästi
     - [Spaghettibolognese](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/spaghettibolognese.md)
     - [Teriyakikana](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/teriyakikana.md)
     - [Tofuriisilla](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/tofuriisilla.md)
+    - [Tomaattivuohenjuustokeitto](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/tomaattivuohenjuustokeitto.md)
     - [Uunijuurekset](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/uunijuurekset.md)
     - [Viskipossu](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/viskipossu.md)
     - [Voikanaraidalla](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/voikanaraidalla.md)
