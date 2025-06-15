@@ -35,7 +35,7 @@
 
 ### Taittelu
 
-Mallia voi ottaa esim. ![tästä](https://www.youtube.com/watch?v=hCqf-h95m2A).
+Mallia voi ottaa esim. [tästä](https://www.youtube.com/watch?v=hCqf-h95m2A).
 Mielummin liian vähän täytettä kerralla kuin liikaa.
 
 
