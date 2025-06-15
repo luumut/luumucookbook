@@ -9,16 +9,15 @@ jobs:
   build-cookbook:
     runs-on: ubuntu-latest
 
-    container:
-      image: pandoc/latex:2.19
-      options: --user root
-
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Set working directory (explicit)
-      run: cd $GITHUB_WORKSPACE
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra \
+          texlive-fonts-recommended texlive-lang-european
 
     - name: Make script executable
       run: chmod +x ./generate-pdf.sh
