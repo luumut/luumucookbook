@@ -17,10 +17,6 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Install dependencies
-      run: |
-        apt-get update && apt-get install -y imagemagick
-
     - name: Make script executable
       run: chmod +x ./generate-pdf.sh
 
