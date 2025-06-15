@@ -1,7 +1,8 @@
 # Tomaattivuohenjuustokeitto
 [mukaillen tätä](https://www.k-ruoka.fi/reseptit/tomaatti-vuohenjuustokeitto) 
 
-<img src="https://github.com/luumut/luumucookbook/blob/master/media/tomatvuohkeit.jpg?raw=true" width=500>
+![alt text](https://github.com/luumut/luumucookbook/blob/master/media/tomatvuohkeit.jpg?raw=true)
+
 
 
 Reseptin tulee suhteellisen vähän keittoa, mutta varmaan kaikki osaavat tehdä vaikka x2 kokoisen reseptin :D

@@ -2,7 +2,7 @@
 
 **2-3 annosta**
 
-<img src="https://github.com/luumut/luumucookbook/blob/master/media/tofuriisilla.jpg?raw=true" width=400></img>
+![alt text](https://github.com/luumut/luumucookbook/blob/master/media/tofuriisilla.jpg?raw=true)
 
 ## Työkalut
 - paistinpannu

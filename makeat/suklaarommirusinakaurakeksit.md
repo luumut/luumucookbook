@@ -1,6 +1,6 @@
 # Suklaarommirusinakaurakeksit
 
-<img src="https://github.com/luumut/luumucookbook/blob/master/media/suklaarommirusinakaurakeksi.jpg" width=600>
+![alt text](https://github.com/luumut/luumucookbook/blob/master/media/suklaarommirusinakaurakeksi.jpg)
 
 ## Ainesosat
 

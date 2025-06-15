@@ -1,6 +1,6 @@
 # Raparperipiirakka
 
-<img src="https://github.com/luumut/luumucookbook/blob/master/media/raparperipiirakka-valmistuote.jpg?raw=true" width=600>
+![alt text](https://github.com/luumut/luumucookbook/blob/master/media/raparperipiirakka-valmistuote.jpg?raw=true)
 
 ## Ainesosat
 

@@ -1,6 +1,5 @@
 # Glögivalkosuklaa-Baileys-Juustokakku
 
-https://github.com/luumut/luumucookbook/blob/master/media/gloegijuustokakku.jpg
 ![alt text](https://github.com/luumut/luumucookbook/blob/master/media/gloegijuustokakku.jpg?raw=true)
 
 ## Ainesosat

@@ -2,7 +2,7 @@
 
 [Videolinkki](https://www.youtube.com/watch?v=-audfGqOu8k)
 
-<img src="https://github.com/luumut/luumucookbook/blob/master/media/kanakeitto.jpg?raw=true" width=400></img>
+![alt text](https://github.com/luumut/luumucookbook/blob/master/media/kanakeitto.jpg?raw=true)
 
 ## Ainesosat
 
