@@ -5,7 +5,7 @@ Tänne voi laittaa reseptejä
 Kantsii kansioida jotenkin järkevästi
 
 
-# Sisällysluettelo [päivitetty 2024-10-09]
+# Sisällysluettelo [päivitetty 2025-06-15]
 - Juomat
     - [Glühwein](https://github.com/luumut/luumucookbook/blob/master/juomat/glühwein.md)
     - [Vesi](https://github.com/luumut/luumucookbook/blob/master/juomat/vesi.md)
