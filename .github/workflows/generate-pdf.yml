@@ -1,0 +1,37 @@
+name: Generate Cookbook PDF
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build-cookbook:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc texlive-xetex texlive-latex-extra \
+          texlive-fonts-recommended texlive-lang-european imagemagick
+
+    - name: Run cookbook builder
+      run: ./generate-pdf.sh
+
+    - name: Upload PDF
+      uses: actions/upload-artifact@v4
+      with:
+        name: cookbook
+        path: cookbook.pdf
+
+    - name: Commit cookbook.pdf to repo
+      run: |
+        git config --global user.name "github-actions"
+        git config --global user.email "actions@github.com"
+        git add cookbook.pdf
+        git commit -m "[skip actions] Update cookbook.pdf"
+        git push
