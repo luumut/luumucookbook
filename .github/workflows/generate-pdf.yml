@@ -9,6 +9,10 @@ jobs:
   build-cookbook:
     runs-on: ubuntu-latest
 
+    container:
+      image: pandoc/latex:2.19
+      options: --user root
+
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
