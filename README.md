@@ -4,6 +4,7 @@ Tänne voi laittaa reseptejä
 
 Kantsii kansioida jotenkin järkevästi
 
+Nyt voit lukea reseptikirjaa myös pdf-formaatissa: [Luumu Cookbook pdf](https://raw.githubusercontent.com/luumut/luumucookbook/refs/heads/master/cookbook.pdf)
 
 # Sisällysluettelo [päivitetty 2025-06-15]
 - Juomat
