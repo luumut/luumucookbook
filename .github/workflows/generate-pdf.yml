@@ -31,6 +31,14 @@ jobs:
         name: cookbook
         path: cookbook.pdf
 
+    - name: Upload versioned release
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: cookbook-$(date +'%Y-%m-%d')
+        name: "Cookbook Release $(date +'%Y-%m-%d')"
+        files: cookbook.pdf
+
+
     - name: Commit cookbook.pdf to repo
       run: |
         git config --global user.name "github-actions"
