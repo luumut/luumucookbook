@@ -21,5 +21,10 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@domain.invalid
           python update.py
-          git commit -am "[skip actions] auto-update table of contents"
-          git push origin HEAD
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "[skip actions] auto-update table of contents"
+            git push
+          else
+            echo "No updates to table of contents"
+          fi
