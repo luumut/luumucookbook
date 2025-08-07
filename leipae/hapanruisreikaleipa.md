@@ -34,10 +34,10 @@ Muuten juuri on valmis. Juuri säilyy jääkaapissa ruokkimatta ainakin pari vii
 
 ## Ruisleivän leipominen
 
-**Raski on aamulla valmista, jos laitoit illalla tulemaan. Muuten n. 8h**
+**Nyt kun raski on käynyt, niin voidaan aloittaa leipominen.**
 
 1. Ota viime askeleessa valmistettu raski, ja sekoita siihen jauhoja, kunnes se tuntuu hieman kiinteämmältä, mutta se saisi olla kuitenkin melko lötköä.
-2. Anna taikinan nousta noin 8h. Vaikka työpäivän ajan.
+2. Anna taikinan nousta kulhossa noin 8h. Vaikka työpäivän ajan.
 2. Muotoile taikinasta uunipellille hieman pizzataikinaa paksumpi ympyrä, josta poistetaan keskiosa.
 3. Uuniin 250C noin 20min, tai kunnes leipä kumisee pohjasta
 4. Ota leipä uunista ja anna sen levätä peitettynä n. 10min
