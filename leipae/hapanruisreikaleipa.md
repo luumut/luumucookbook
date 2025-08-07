@@ -27,7 +27,6 @@ Muuten juuri on valmis. Juuri säilyy jääkaapissa ruokkimatta ainakin pari vii
 ## Raskin(Välitaikina) valmistus
 - Melkein koko juuri (jätä juurta, jos aiot lähitulevaisuudessa leipoa uudestaan)
 - 200g ruisjauhoja ja 200g vettä
-- Sopiva määrä ruisjauhoja, että taikina tuntuu oikealta, kiinteän ja löysän välillä
 - Suolaa
 
 **Sekoita taikinakulhoon ja anna tämän välitaikinan tekeytyä 8-12h, tai yön yli. Muista peittää astia, että ei kuivu.**
