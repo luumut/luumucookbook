@@ -55,3 +55,4 @@ Muuten juuri on valmis. Juuri säilyy jääkaapissa ruokkimatta ainakin pari vii
 - Juurta kannattaa säästää jatkoa varten. Antaa vaan lisää jauhoja ja vettä, niin villihiivat ja bakteerikannat säilyy elinvoimaisina.
 - Tietyt ruisjauhot eivät välttämättä toimi yhtä hyvn kuin toiset. Esim. legenda kertoo että lidlin jauhot ovat melko 0mk.
 - Juurta voi säilöä pakastimessa tai kuivattuna, tähän löytyy ohjeita.
+- Leipomakertojen välissä, kannattaa säilyttää juurta jääkaapissa, niin se säilyy paremmin, eikä tarvitse ruokkia niin usein.
