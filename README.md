@@ -14,7 +14,7 @@ Nyt voit lukea reseptikirjaa myös pdf-formaatissa: [Cookbook.pdf](https://githu
     - [Focaccia](https://github.com/luumut/luumucookbook/blob/master/leipae/focaccia.md)
     - [Hapanruisreikaleipa](https://github.com/luumut/luumucookbook/blob/master/leipae/hapanruisreikaleipa.md)
     - [Naan](https://github.com/luumut/luumucookbook/blob/master/leipae/naan.md)
-    - [Pitsapohja](https://github.com/luumut/luumucookbook/blob/master/leipae/pitsapohja.txt)
+    - [Pitsapohja](https://github.com/luumut/luumucookbook/blob/master/leipae/pitsapohja.md)
     - [Pizzatäytteet](https://github.com/luumut/luumucookbook/blob/master/leipae/pizzatäytteet.txt)
 - Makeat
     - [Glögivalkosuklaabaileysjuustokakku](https://github.com/luumut/luumucookbook/blob/master/makeat/glögivalkosuklaabaileysjuustokakku.md)
