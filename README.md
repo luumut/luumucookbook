@@ -6,7 +6,7 @@ Kantsii kansioida jotenkin järkevästi
 
 Nyt voit lukea reseptikirjaa myös pdf-formaatissa: [Cookbook.pdf](https://github.com/luumut/luumucookbook/releases/download/cookbook-latest/cookbook.pdf)
 
-# Sisällysluettelo [päivitetty 2025-08-07]
+# Sisällysluettelo [päivitetty 2025-09-19]
 - Juomat
     - [Glühwein](https://github.com/luumut/luumucookbook/blob/master/juomat/glühwein.md)
     - [Vesi](https://github.com/luumut/luumucookbook/blob/master/juomat/vesi.md)
