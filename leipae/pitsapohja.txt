@@ -1,5 +1,8 @@
 Pohjustuu hyvään guideen jolla on videokin: https://www.tuba.fi/2016/06/pizza-la-pizza-ja-pitsa/
-Lue se jos haluut oikeesti levuttaa pizzagameasi.
+Toinen guide joka lisättäköön lähteeksi: https://pizzanpaistajat.fi/kinnusen-taikinateesit/
+Lue näitä ja muita pizzakirjoja jos haluat todella levuttaa pizzagameasi. Tämä ohje on teekkarikokin
+laiskuudella ja luovuudella mukautettu versio jolla on onnistuneesti tehty artesaanipizzoja
+opiskelijakämppien hämärissä pikku keittiöissä.
 
 Eineet:
     450g Puolikarkeita vehnäjauhoja (Proteiini 13%)
@@ -26,16 +29,16 @@ Valmistelu ennen paistoa:
         ii. Voit myös yrittää kokonaan ilman peltiä ritilän päällä
 
 Kokkaus (cocking):
-    1. Sekoita hiiva ja vesi, jätä pöydälle heräilemään hetkeksi.
-        i. Lisää pieni osa jauhoista ja anna heräillä ~15min tai kunnes kuplii
-        ii. kuivahiivan kanssa huom. herätyslämpötila
-    2. Lisää loput jauhoista ja sekoita. Ei tarvitse vielä vaivata kauheasti. Kuha semmone pallo muodostuu.
-    3. Anna levätä kelmun alla joku 30-45 min
-    4. Lisää taikinaan suola.
-    5. Ota taikinapallo kulhosta ja rupea vaivaamaan niin perkeleesti. Hakkaa päälle, slap&fold, ihan mitä vaan, rankaise sitä niinkuin se ois sulle velkaa. (8-15 min)
+    1. Sekoita hiiva ja jauhot.
+    2. Kaada joukkoon kylmä vesi ja sekoita. Ei tarvitse vielä vaivata kauheasti. Kuha semmone pallo muodostuu.
+	- Merkityksellistä on, ettei hiiva herää liian nopeasti. Siksi kylmä vesi.
+    3. Anna levätä kelmun alla joku 30-60 min
+    	- Tässä kohtaa haetaan sitä kuuluisaa autolyysiä. Lähemmäksi tuntia on parempi.
+    4. Ota taikinapallo kulhosta ja rupea vaivaamaan niin perkeleesti. Hakkaa päälle, slap&fold, ihan mitä vaan, rankaise sitä niinkuin se ois sulle velkaa. (5-10 min)
         i. Taikinan rakenteessa ja sitkossa pitäisi tapahtua ihan näkyvä muutos kun alkaa olla valmista.
-    6. Tee taikinasta pallo, voitele oliiviöljyllä ja laita tuorekelmun alle lepäämään 5-10 min.
-    7. Taittele taikinapallo. Nyt jos haluat, voit pistää taikinan kylmään (öljyttynä ja kelmuttuna) kohoamaan vuorokaudeksi - jos et kerkee niin mee suoraan seuraavaan.
+    5. Lisää taikinaan suola ja vaivaa lisää (5-10 min)
+    6. Tee taikinasta pallo, anna sen levätä kelmun/kulhon alla 10-15 min.
+    7. Taittele taikinapallo. Nyt jos haluat, voit pistää taikinan kylmään kelmutettuna kohoamaan vuorokaudeksi - jos et kerkee niin mee suoraan seuraavaan.
     8. Jaa taikina niin moneen osaan kun aiot pitsoja tehdä. Varovasti pyörittele palloiksi tuhoamatta ilmataskuja hirveesti.
     9. Öljy + kelmu, pallot erillään kohoamaan. Jos on taas aikaa, kohota jääkaapissa yön yli.
     	i. jos ei oo koko päivää aikaa nii kohota lämpimässä sen aikaa kun on. Vaikka 30-60 min.
