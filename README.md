@@ -6,7 +6,7 @@ Kantsii kansioida jotenkin järkevästi
 
 Nyt voit lukea reseptikirjaa myös pdf-formaatissa: [Cookbook.pdf](https://github.com/luumut/luumucookbook/releases/download/cookbook-latest/cookbook.pdf)
 
-# Sisällysluettelo [päivitetty 2025-09-19]
+# Sisällysluettelo [päivitetty 2026-03-19]
 - Juomat
     - [Glühwein](https://github.com/luumut/luumucookbook/blob/master/juomat/glühwein.md)
     - [Vesi](https://github.com/luumut/luumucookbook/blob/master/juomat/vesi.md)
@@ -36,6 +36,7 @@ Nyt voit lukea reseptikirjaa myös pdf-formaatissa: [Cookbook.pdf](https://githu
     - [Karjalanpaisti](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/karjalanpaisti.md)
     - [Katkarapwok](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/katkarapWok.md)
     - [Kenraali_Tsaon_Kana](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/kenraali_tsaon_kana.md)
+    - [Kinkkukiusaus](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/kinkkukiusaus.md)
     - [Koftapullat](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/koftapullat.md)
     - [Korealainen_Kana](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/korealainen_kana.md)
     - [Lefanliekkitorttu](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/lefanliekkitorttu.md)
