@@ -1,43 +1,50 @@
 = Mikontalo Experience (voikanaa ja raitaa)
 
-#image("../media/mikontaloexperience.jpg", width: 100%, height: 65mm, fit: "contain", alt: "tarjoiluehdotus")
+#grid(
+  columns: (1.2fr, 1fr),
+  column-gutter: 8mm,
+  align: top,
+  [
+    == Työkalut
+    - paistinpannu
+    - pieni kattila
+    - kulho
 
+    == Ainesosat
 
+    === Kana
+    - 2-3 kananrintaa
+    - 0.5 dl turkkilaista jogurttia
+    - 2 tl pilkottua inkivääriä
+    - 2 valkosipulinkynttä
+    - 4 rkl garam masala -mausteseosta
+    - 2 rkl juustokuminaa
+    - 0.5 dl tomaattisosetta
+    - 1 prk tomaattimurskaa
+    - 2 dl kuohukermaa
+    - 80 g margariinia
+    - tuoretta korianteria silputtuna koristeeksi
 
-== Työkalut
-- paistinpannu
-- pieni kattila
-- kulho
+    === Raita
+    #strong[sekoita keskenään]
 
+    - jogurttia
+    - korianteria silputtuna (tuore tai kuiva)
+    - valkosipulia silputtuna / jauheena
 
-== Ainesosat
+    == Valmistus
+    1. Kuutioi kananrinnat ja sekoita kulhossa mukaan jogurtti, mausteet ja valkosipuli.
+    2. Paista kanat kevyesti tai anna marinoitua ensin 30min-8h. Siirrä syrjään odottamaan.
+    3. Kuumenna tomaattisose, tomaattimurska, margariini ja kuohukerma kattilassa.
+    4. Sekoita mukaan kana. Maista ja lisää mausteita tarpeen mukaan.
+    5. Tarjoile riisin, naan-leivän ja raita-kastikkeen kera.
+  ],
+  [
+    #figure(
+      image("../media/mikontaloexperience.jpg", height: 65mm, alt: "tarjoiluehdotus"),
+      caption: [blank image text],
+      numbering: none,
+    )
 
-=== Kana
-- 2-3 kananrintaa
-- 0.5 dl turkkilaista jogurttia
-- 2 tl pilkottua inkivääriä
-- 2 valkosipulinkynttä
-- 4 rkl garam masala -mausteseosta
-- 2 rkl juustokuminaa
-- 0.5 dl tomaattisosetta
-- 1 prk tomaattimurskaa
-- 2 dl kuohukermaa
-- 80 g margariinia
-- tuoretta korianteria silputtuna koristeeksi
-
-
-=== Raita 
-#strong[sekoita keskenään]
-
-- jogurttia
-- korianteria silputtuna (tuore tai kuiva)
-- valkosipulia silputtuna / jauheena
-
-
-== Valmistus
-1. Kuutioi kananrinnat ja sekoita kulhossa mukaan jogurtti, mausteet ja valkosipuli.
-2. Paista kanat kevyesti tai anna marinoitua ensin 30min-8h. Siirrä syrjään odottamaan.
-3. Kuumenna tomaattisose, tomaattimurska, margariini ja kuohukerma kattilassa. 
-4. Sekoita mukaan kana. Maista ja lisää mausteita tarpeen mukaan.
-5. Tarjoile riisin, naan-leivän ja raita-kastikkeen kera.
-
+  ],
+)

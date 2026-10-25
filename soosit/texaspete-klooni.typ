@@ -1,30 +1,48 @@
 = Texaspete-kloonikastike
-Koska aito on kallista ja itsetekeminen on kivaa. Ohjeen kastike maistuu ehkä hieman kirpeämmältä ja raikkaammalta kuin aito johtuen suuremmasta etikan määrästä sekä fermentöinnin puutteesta
 
-== Ainesosat
-- 500ml väkiviinaetikkaa (tai lisää osan vettä)
-- 16 cayennechiliä (tai muuta, ei kiinnosta)
-- Muutama valkosipulin kynsi (tai monta)
-- 1 tl suola
+#grid(
+  columns: (1.2fr, 1fr),
+  column-gutter: 8mm,
+  align: top,
+  [
+    Koska aito on kallista ja itsetekeminen on kivaa. Ohjeen kastike maistuu ehkä hieman kirpeämmältä ja raikkaammalta kuin aito johtuen suuremmasta etikan määrästä sekä fermentöinnin puutteesta
 
-== Välineet
-- Kattila
-- Sauvasekotin / tehosekotin
-- Siivilä
+    == Ainesosat
+    - 500ml väkiviinaetikkaa (tai lisää osan vettä)
+    - 16 cayennechiliä (tai muuta, ei kiinnosta)
+    - Muutama valkosipulin kynsi (tai monta)
+    - 1 tl suola
 
-== Valmistusohjeet
-- Pilko chilit noin sentin paloiksi
-- Kuori valkosipulit
-- Keitä kaikkia ainesosia kattilassa joku noin 20min kunnes chilien rakenne alkaa hajoamaan
+    == Välineet
+    - Kattila
+    - Sauvasekotin / tehosekotin
+    - Siivilä
 
-#image("../media/chilisoos.jpg", width: 187.5pt, height: 65mm, fit: "contain")
+    == Valmistusohjeet
+    - Pilko chilit noin sentin paloiksi
+    - Kuori valkosipulit
+    - Keitä kaikkia ainesosia kattilassa joku noin 20min kunnes chilien rakenne alkaa hajoamaan
 
-- Aja kattilan sisältö tehosekoittimen tai sauvasekottimen läpi täysiä
+    - Aja kattilan sisältö tehosekoittimen tai sauvasekottimen läpi täysiä
 
-#image("../media/chilisoos2.jpg", width: 187.5pt, height: 65mm, fit: "contain")
+    - Siivilöi kaikki irtomoska pois
+    - Pullota steriloituun pulloon
 
-- Siivilöi kaikki irtomoska pois
-- Pullota steriloituun pulloon
+    == Jatkokehitysideat
+    - Testaa chilien fermentöintiä kuin Texaspete sen tekee
+  ],
+  [
+    #figure(
+      image("../media/chilisoos.jpg", width: 100%),
+      caption: [blank image text],
+      numbering: none,
+    )
 
-== Jatkokehitysideat
-- Testaa chilien fermentöintiä kuin Texaspete sen tekee
+    #figure(
+      image("../media/chilisoos2.jpg", width: 100%),
+      caption: [blank image text],
+      numbering: none,
+    )
+
+  ],
+)
