@@ -23,7 +23,7 @@ header-includes:
 EOF
 
 # Recipe folders
-for dir in $(find juomat leipae makeat ruokaisat -type d | sort); do
+for dir in $(find juomat leipae makeat ruokaisat  soosit -type d | sort); do
   files=$(find "$dir" -maxdepth 1 -type f -name "*.md" | sort)
   if [[ -n "$files" ]]; then
     section_name=$(basename "$dir")
