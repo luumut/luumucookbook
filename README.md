@@ -53,3 +53,5 @@ Nyt voit lukea reseptikirjaa myös pdf-formaatissa: [Cookbook.pdf](https://githu
     - [Uunijuurekset](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/uunijuurekset.md)
     - [Viskipossu](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/viskipossu.md)
     - [Voikanaraidalla](https://github.com/luumut/luumucookbook/blob/master/ruokaisat/voikanaraidalla.md)
+- Soosit
+    - [Texaspete-Klooni](https://github.com/luumut/luumucookbook/blob/master/soosit/texaspete-klooni.md)
