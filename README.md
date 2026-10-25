@@ -2,7 +2,7 @@
 
 Tänne on pakko laittaa hyviä reseptejä! >:3
 
-Lue reseptikirjaa pdf-formaatissa: [Cookbook.pdf]("https://github.com/luumut/luumucookbook/releases/download/cookbook-latest/cookbook.pdf")
+Lue reseptikirjaa pdf-formaatissa: [Cookbook.pdf](https://github.com/luumut/luumucookbook/releases/download/cookbook-latest/cookbook.pdf)
 
 ## Kehitysohje
 
