@@ -1,8 +1,8 @@
 = Lefan liekkitorttu
 
-Juuri kuolleen (2024-10-09) Leif Segerstamin muistoa kunnioittaen hänen klassikkoreseptinsä 
+Kirjoittaessa juuri kuolleen (2024-10-09) Leif Segerstamin muistoa kunnioittaen hänen klassikkoreseptinsä.
 
-Resepti on alunperin kai Kodin Kuvalehdestä, mutta löysin sen #link("http://ruokahommia.blogspot.com/2009/11/lefan-liekkikakku.html")[ruokahommia-nettisivulta]. Voi olla että reseptiin tulee jotain muutoksia sen testauksen jälkeen mutta tiedä sitten\.\.\.
+Resepti on alunperin kai Kodin Kuvalehdestä, mutta löysin sen #link("http://ruokahommia.blogspot.com/2009/11/lefan-liekkikakku.html")[ruokahommia-nettisivulta]. Voi olla että reseptiin tulee jotain muutoksia sen testauksen jälkeen mutta tiedä sitten...
 
 En edes muista kuinka monta kertaa tätä on tullut syötyä tädillä.
 

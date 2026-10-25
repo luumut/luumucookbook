@@ -1,4 +1,4 @@
-= Kanakeitto (Jussi Halla-aholta lainattu)
+= Kanakeitto 
 
 #grid(
   columns: (1.2fr, 1fr),
@@ -37,11 +37,13 @@
     == Muuta?
 
     Helppoa, herkkudish ja helposti modattavaa
+
+    (Resepti on Jussi Halla-aholta lainattu. Jussi haastakoon vaikka oikeuteen tai jotain emt)
   ],
   [
     #figure(
       image("media/kanakeitto.jpg", width: 100%, alt: "alt text"),
-      caption: [blank image text],
+      caption: [Valmis annos],
       numbering: none,
     )
 

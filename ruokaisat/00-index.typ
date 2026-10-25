@@ -1,12 +1,14 @@
+#import "../config.typ": *
+
 #pagebreak(weak: true)
 = Ruokaisat
 #line(length: 100%)
 
-// Add a category introduction here, before the recipes.
+Tämän osion alla on ruokaisia ohjeita
 
 #set heading(offset: 1)
 
-#v(6mm)
+#v(otsikko-rako)
 
 #include "carbonara.typ"
 

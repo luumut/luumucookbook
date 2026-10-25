@@ -1,4 +1,4 @@
-= Kofta pullat
+= Koftapullat
 
 == Ainesosat
 

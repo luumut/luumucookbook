@@ -1,3 +1,5 @@
+#import "../config.typ": *
+
 #pagebreak(weak: true)
 = Juomat
 #line(length: 100%)
@@ -8,7 +10,7 @@ Tähän alle nestemäisiä reseptejä.
 
 #set heading(offset: 1)
 
-#v(6mm)
+#v(otsikko-rako)
 
 #include "glühwein.typ"
 

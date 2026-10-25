@@ -1,18 +1,15 @@
+#import "../config.typ": *
+
 #pagebreak(weak: true)
 = Leipäreseptit
 #line(length: 100%)
 
 
-MMMMMMMM herkullista leipääää
-
-
-.
-
-// Add a category introduction here, before the recipes.
+MMMMMMMM niin hyvää leipääää
 
 #set heading(offset: 1)
 
-#v(60mm)
+#v(otsikko-rako)
 
 #include "focaccia.typ"
 

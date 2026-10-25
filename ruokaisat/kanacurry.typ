@@ -25,7 +25,7 @@
   [
     #figure(
       image("media/kanacurry.jpg", height: 65mm, alt: "alt text"),
-      caption: [blank image text],
+      caption: [Valmis annos],
       numbering: none,
     )
 
