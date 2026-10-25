@@ -35,7 +35,7 @@
   [
     #figure(
       image("media/sienipasta.jpg", height: 65mm, alt: "tarjoiluehdotus"),
-      caption: [blank image text],
+      caption: [Valmis annos],
       numbering: none,
     )
 

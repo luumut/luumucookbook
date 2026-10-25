@@ -51,7 +51,7 @@
   [
     #figure(
       image("media/raparperipiirakka-valmistuote.jpg", width: 100%, alt: "alt text"),
-      caption: [Kuva valmiista tuotteesta],
+      caption: [Valmis tuote],
       numbering: none,
     )
 

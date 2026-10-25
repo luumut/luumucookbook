@@ -1,7 +1,21 @@
 # Luumujen keittokirja repo
 
-Tänne on pakko laittaa reseptejä! >:3
+Tänne on pakko laittaa hyviä reseptejä! >:3
 
-Lue reseptikirjaa pdf-formaatissa: #link("https://github.com/luumut/luumucookbook/releases/download/cookbook-latest/cookbook.pdf")[Cookbook.pdf]
+Lue reseptikirjaa pdf-formaatissa: [Cookbook.pdf]("https://github.com/luumut/luumucookbook/releases/download/cookbook-latest/cookbook.pdf")
 
-Repo toteutettu Typstillä. Editoi cookbook.typ ja lisää ruokasi oikeaan hakemistoon. Kannattaa kopioida syntaksia aiemmista resepteistä mikäli Typst ei ole entuudestaan tuttu.
+## Kehitysohje
+
+Reseptikirja on toteutettu [Typstillä](https://typst.app/docs/).
+
+Vahva suositus VSCodelle ja Tinymist nimiselle kirjastolle sille.
+
+### Kuinka lisätä uusi resepti?
+
+- Lisää reseptisi oikean alaotsikon alle sekä linkki typ-tiedostoosi 00-index.typ tiedostoon.
+- Puske muutokset sisään
+- Automaatio leipoo uuden kokkikirjan
+
+## CI/CD
+
+Repossa on hienoakin hienompi Github actions-putki, joka renderöi typstillä uuden pdf-tiedoston aina kun masteriin pusketaan muutoksia.

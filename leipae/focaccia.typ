@@ -32,7 +32,7 @@
   [
     #figure(
       image("media/focaccia.jpg", height: 65mm, alt: "tarjoiluehdotus"),
-      caption: [blank image text],
+      caption: [Herkunlinen leipä :3],
       numbering: none,
     )
 

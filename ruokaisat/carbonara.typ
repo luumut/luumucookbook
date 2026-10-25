@@ -59,37 +59,37 @@
   [
     #figure(
       image("media/carbonara-valmis-lautasella.jpg", width: 100%, alt: "alt text"),
-      caption: [blank image text],
+      caption: [Valmis annos],
       numbering: none,
     )
 
     #figure(
       image("media/carbonara-muna.jpg", height: 65mm),
-      caption: [blank image text],
+      caption: [Parmesaani ja MUNA],
       numbering: none,
     )
 
     #figure(
       image("media/carbonara-pekoni.jpg", width: 100%),
-      caption: [blank image text],
+      caption: [Pekonaattori],
       numbering: none,
     )
 
     #figure(
       image("media/carbonara-pasta-vedessae.jpg", width: 100%),
-      caption: [blank image text],
+      caption: [Pasta],
       numbering: none,
     )
 
     #figure(
       image("media/carbonara-pekoni-pannulla.jpg", width: 100%),
-      caption: [blank image text],
+      caption: [Pekonit pannulla],
       numbering: none,
     )
 
     #figure(
       image("media/carbonara-valmis.jpg", width: 100%),
-      caption: [blank image text],
+      caption: [Ruokaa kattilassa],
       numbering: none,
     )
 

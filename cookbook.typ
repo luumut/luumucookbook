@@ -6,27 +6,37 @@
 #show link: set text(fill: blue)
 
 #align(center)[
-  #text(size: 28pt, weight: "bold")[Luumu Cookbook]
+  #v(50mm)
+  #text(size: 45pt, weight: "bold", font: "FreeMono")[Luumu Cookbook]
 
+  Luumujen oma cookbook :3 
   
+  https://github.com/luumut/luumucookbook
 
       #figure(
       image("template/media/katrinplommon.jpg", width: 50%, alt: "alt text"),
-      caption: [Bottom text :D],
+      caption: [],
       numbering: none,
     )
     #v(6mm)
 
-    PDF generoitu:
-    #context datetime.today().display("[year]-[month]-[day]")
+    #align(center + bottom)[PDF generoitu:
+    #context datetime.today().display("[year]-[month]-[day]")]
+    
 ]
+#pagebreak()
+= Alkusanat
+Tehtiin tälläinen koska voidaan.
 
+Kiitos cockeille ja toivottavasti resepteistä on iloa lukijalle :3
 #pagebreak()
 #outline(title: [Sisällysluettelo], depth: 2)
 
-#include "juomat/00-index.typ"
-#include "leipae/00-index.typ"
-#include "makeat/00-index.typ"
 #include "ruokaisat/00-index.typ"
+#include "makeat/00-index.typ"
+#include "leipae/00-index.typ"
+#include "juomat/00-index.typ"
 #include "soosit/00-index.typ"
+
+// Templatesaatana
 #include "template/00-index.typ"

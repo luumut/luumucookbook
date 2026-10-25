@@ -36,7 +36,7 @@
   [
     #figure(
       image("media/tomatvuohkeit.jpg", width: 100%, alt: "alt text"),
-      caption: [blank image text],
+      caption: [Valmis ateria],
       numbering: none,
     )
 
