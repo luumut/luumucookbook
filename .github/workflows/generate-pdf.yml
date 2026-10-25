@@ -1,5 +1,12 @@
 name: Generate Cookbook PDF
 
+permissions:
+  contents: write
+
+concurrency:
+  group: cookbook-release
+  cancel-in-progress: false
+
 on:
   push:
     branches:
@@ -30,9 +37,23 @@ jobs:
         name: cookbook
         path: cookbook.pdf
 
-    - name: Upload versioned release
-      uses: softprops/action-gh-release@v1
-      with:
-        tag_name: cookbook-latest
-        name: "Cookbook latest"
-        files: cookbook.pdf
+    - name: Replace cookbook release
+      env:
+        GH_TOKEN: ${{ github.token }}
+        GH_REPO: ${{ github.repository }}
+      run: |
+        set -euo pipefail
+
+        release_id=$(gh api --paginate \
+          "repos/$GH_REPO/releases" \
+          --jq '.[] | select(.tag_name == "cookbook-latest") | .id')
+
+        if [ -n "$release_id" ]; then
+          gh release delete cookbook-latest --yes --cleanup-tag
+        fi
+
+        gh release create cookbook-latest cookbook.pdf \
+          --target "$GITHUB_SHA" \
+          --title "Cookbook latest" \
+          --notes "Cookbook PDF built from commit $GITHUB_SHA." \
+          --latest
