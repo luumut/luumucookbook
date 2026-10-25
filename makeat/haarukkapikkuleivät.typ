@@ -31,7 +31,7 @@
   ],
   [
     #figure(
-      image("../media/haarukkapikkuleivät.jpg", width: 100%, alt: "tarjoiluehdotus"),
+      image("media/haarukkapikkuleivät.jpg", width: 100%, alt: "tarjoiluehdotus"),
       caption: [blank image text],
       numbering: none,
     )

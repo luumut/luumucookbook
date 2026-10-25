@@ -39,7 +39,7 @@
   ],
   [
     #figure(
-      image("../media/kanavuoka.jpg", height: 65mm, alt: "tarjoiluehdotus"),
+      image("media/kanavuoka.jpg", height: 65mm, alt: "tarjoiluehdotus"),
       caption: [blank image text],
       numbering: none,
     )

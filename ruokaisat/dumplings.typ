@@ -47,7 +47,7 @@
   ],
   [
     #figure(
-      image("../media/dumpling.jpg", height: 65mm, alt: "tarjoiluehdotus"),
+      image("media/dumpling.jpg", height: 65mm, alt: "tarjoiluehdotus"),
       caption: [blank image text],
       numbering: none,
     )

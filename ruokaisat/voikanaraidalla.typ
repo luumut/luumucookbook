@@ -41,7 +41,7 @@
   ],
   [
     #figure(
-      image("../media/mikontaloexperience.jpg", height: 65mm, alt: "tarjoiluehdotus"),
+      image("media/mikontaloexperience.jpg", height: 65mm, alt: "tarjoiluehdotus"),
       caption: [blank image text],
       numbering: none,
     )

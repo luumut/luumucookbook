@@ -31,7 +31,7 @@
   ],
   [
     #figure(
-      image("../media/suklaarommirusinakaurakeksi.jpg", width: 100%, alt: "alt text"),
+      image("media/suklaarommirusinakaurakeksi.jpg", width: 100%, alt: "alt text"),
       caption: [blank image text],
       numbering: none,
     )

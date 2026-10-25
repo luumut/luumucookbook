@@ -40,7 +40,7 @@
   ],
   [
     #figure(
-      image("../media/kanakeitto.jpg", width: 100%, alt: "alt text"),
+      image("media/kanakeitto.jpg", width: 100%, alt: "alt text"),
       caption: [blank image text],
       numbering: none,
     )

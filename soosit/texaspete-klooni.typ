@@ -33,13 +33,13 @@
   ],
   [
     #figure(
-      image("../media/chilisoos.jpg", width: 100%),
+      image("media/chilisoos.jpg", width: 100%),
       caption: [blank image text],
       numbering: none,
     )
 
     #figure(
-      image("../media/chilisoos2.jpg", width: 100%),
+      image("media/chilisoos2.jpg", width: 100%),
       caption: [blank image text],
       numbering: none,
     )

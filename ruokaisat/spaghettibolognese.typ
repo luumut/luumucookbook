@@ -50,7 +50,7 @@
   ],
   [
     #figure(
-      image("../media/bolognese.jpg", height: 65mm, alt: "tarjoiluehdotus"),
+      image("media/bolognese.jpg", height: 65mm, alt: "tarjoiluehdotus"),
       caption: [blank image text],
       numbering: none,
     )

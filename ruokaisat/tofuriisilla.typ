@@ -36,7 +36,7 @@
   ],
   [
     #figure(
-      image("../media/tofuriisilla.jpg", height: 65mm, alt: "alt text"),
+      image("media/tofuriisilla.jpg", height: 65mm, alt: "alt text"),
       caption: [blank image text],
       numbering: none,
     )

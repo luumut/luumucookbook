@@ -35,7 +35,7 @@
   ],
   [
     #figure(
-      image("../media/tomatvuohkeit.jpg", width: 100%, alt: "alt text"),
+      image("media/tomatvuohkeit.jpg", width: 100%, alt: "alt text"),
       caption: [blank image text],
       numbering: none,
     )

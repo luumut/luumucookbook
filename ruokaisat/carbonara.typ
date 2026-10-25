@@ -58,37 +58,37 @@
   ],
   [
     #figure(
-      image("../media/carbonara-valmis-lautasella.jpg", width: 100%, alt: "alt text"),
+      image("media/carbonara-valmis-lautasella.jpg", width: 100%, alt: "alt text"),
       caption: [blank image text],
       numbering: none,
     )
 
     #figure(
-      image("../media/carbonara-muna.jpg", height: 65mm),
+      image("media/carbonara-muna.jpg", height: 65mm),
       caption: [blank image text],
       numbering: none,
     )
 
     #figure(
-      image("../media/carbonara-pekoni.jpg", width: 100%),
+      image("media/carbonara-pekoni.jpg", width: 100%),
       caption: [blank image text],
       numbering: none,
     )
 
     #figure(
-      image("../media/carbonara-pasta-vedessae.jpg", width: 100%),
+      image("media/carbonara-pasta-vedessae.jpg", width: 100%),
       caption: [blank image text],
       numbering: none,
     )
 
     #figure(
-      image("../media/carbonara-pekoni-pannulla.jpg", width: 100%),
+      image("media/carbonara-pekoni-pannulla.jpg", width: 100%),
       caption: [blank image text],
       numbering: none,
     )
 
     #figure(
-      image("../media/carbonara-valmis.jpg", width: 100%),
+      image("media/carbonara-valmis.jpg", width: 100%),
       caption: [blank image text],
       numbering: none,
     )

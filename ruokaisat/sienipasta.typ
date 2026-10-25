@@ -34,7 +34,7 @@
   ],
   [
     #figure(
-      image("../media/sienipasta.jpg", height: 65mm, alt: "tarjoiluehdotus"),
+      image("media/sienipasta.jpg", height: 65mm, alt: "tarjoiluehdotus"),
       caption: [blank image text],
       numbering: none,
     )

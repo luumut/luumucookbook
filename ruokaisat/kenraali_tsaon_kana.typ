@@ -53,7 +53,7 @@
   ],
   [
     #figure(
-      image("../media/tsao.jpg", height: 65mm, alt: "tsao"),
+      image("media/tsao.jpg", height: 65mm, alt: "tsao"),
       caption: [blank image text],
       numbering: none,
     )

@@ -59,13 +59,13 @@
   ],
   [
     #figure(
-      image("../media/hapanjuuriruisreikaleipa1.jpg", height: 65mm, alt: "Valmis ruisleipä"),
+      image("media/hapanjuuriruisreikaleipa1.jpg", height: 65mm, alt: "Valmis ruisleipä"),
       caption: [blank image text],
       numbering: none,
     )
 
     #figure(
-      image("../media/hapanjuuriruisreikaleipa2.jpg", height: 65mm, alt: "Valmis hapanjuuri"),
+      image("media/hapanjuuriruisreikaleipa2.jpg", height: 65mm, alt: "Valmis hapanjuuri"),
       caption: [blank image text],
       numbering: none,
     )

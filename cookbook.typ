@@ -10,6 +10,12 @@
 
   Generoitu:
   #context datetime.today().display("[year]-[month]-[day]")
+
+      #figure(
+      image("template/media/katrinplommon.jpg", width: 50%, alt: "alt text"),
+      caption: [Bottom text :D],
+      numbering: none,
+    )
 ]
 
 #pagebreak()
@@ -20,3 +26,4 @@
 #include "makeat/00-index.typ"
 #include "ruokaisat/00-index.typ"
 #include "soosit/00-index.typ"
+#include "template/00-index.typ"

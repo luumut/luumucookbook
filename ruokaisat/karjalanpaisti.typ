@@ -34,7 +34,7 @@
   ],
   [
     #figure(
-      image("../media/karjalanpaisti.jpg", height: 65mm, alt: "tarjoiluehdotus"),
+      image("media/karjalanpaisti.jpg", height: 65mm, alt: "tarjoiluehdotus"),
       caption: [blank image text],
       numbering: none,
     )

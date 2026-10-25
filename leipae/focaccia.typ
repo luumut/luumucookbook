@@ -31,7 +31,7 @@
   ],
   [
     #figure(
-      image("../media/focaccia.jpg", height: 65mm, alt: "tarjoiluehdotus"),
+      image("media/focaccia.jpg", height: 65mm, alt: "tarjoiluehdotus"),
       caption: [blank image text],
       numbering: none,
     )

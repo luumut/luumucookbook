@@ -50,7 +50,7 @@
   ],
   [
     #figure(
-      image("../media/viskipossu.jpg", width: 100%, alt: "tarjoiluehdotus"),
+      image("media/viskipossu.jpg", width: 100%, alt: "tarjoiluehdotus"),
       caption: [blank image text],
       numbering: none,
     )

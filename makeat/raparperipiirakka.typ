@@ -50,26 +50,26 @@
   ],
   [
     #figure(
-      image("../media/raparperipiirakka-valmistuote.jpg", width: 100%, alt: "alt text"),
-      caption: [blank image text],
+      image("media/raparperipiirakka-valmistuote.jpg", width: 100%, alt: "alt text"),
+      caption: [Kuva valmiista tuotteesta],
       numbering: none,
     )
 
     #figure(
-      image("../media/raparperipiirakka-leivitys.jpg", width: 100%),
-      caption: [blank image text],
+      image("media/raparperipiirakka-leivitys.jpg", width: 100%),
+      caption: [Leivitys],
       numbering: none,
     )
 
     #figure(
-      image("../media/raparperipiirakka-raparperit.jpg", width: 100%),
-      caption: [blank image text],
+      image("media/raparperipiirakka-raparperit.jpg", width: 100%),
+      caption: [Ennen uunia],
       numbering: none,
     )
 
     #figure(
-      image("../media/raparperipiirakka-ekapaistos.jpg", width: 100%),
-      caption: [blank image text],
+      image("media/raparperipiirakka-ekapaistos.jpg", width: 100%),
+      caption: [Paiston jälkeen ennen kuorrutusta],
       numbering: none,
     )
 

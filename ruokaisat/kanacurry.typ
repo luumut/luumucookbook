@@ -24,7 +24,7 @@
   ],
   [
     #figure(
-      image("../media/kanacurry.jpg", height: 65mm, alt: "alt text"),
+      image("media/kanacurry.jpg", height: 65mm, alt: "alt text"),
       caption: [blank image text],
       numbering: none,
     )

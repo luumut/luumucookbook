@@ -80,7 +80,7 @@
   ],
   [
     #figure(
-      image("../media/gloegijuustokakku.jpg", width: 100%, alt: "alt text"),
+      image("media/gloegijuustokakku.jpg", width: 100%, alt: "alt text"),
       caption: [blank image text],
       numbering: none,
     )

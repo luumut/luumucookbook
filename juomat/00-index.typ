@@ -8,6 +8,8 @@ Tähän alle nestemäisiä reseptejä.
 
 #set heading(offset: 1)
 
+#v(6mm)
+
 #include "glühwein.typ"
 
 #pagebreak(weak: true)
