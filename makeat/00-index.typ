@@ -1,12 +1,14 @@
+#import "../config.typ": *
+
 #pagebreak(weak: true)
 = Makeat
 #line(length: 100%)
 
-// Add a category introduction here, before the recipes.
+Tämän otsikon alle makeita jälkiruokia ja muita vastaavia herqquja
 
 #set heading(offset: 1)
 
-#v(6mm)
+#v(otsikko-rako)
 
 #include "glögivalkosuklaabaileysjuustokakku.typ"
 

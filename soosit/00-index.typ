@@ -1,13 +1,13 @@
+#import "../config.typ": *
+
 #pagebreak(weak: true)
 = Soosit
 #line(length: 100%)
 
-// Add a category introduction here, before the recipes.
-
-Tämän otsikon alle erinäisiä kastikkeita.
+Tämän otsikon alle erinäisiä sooseja.
 
 #set heading(offset: 1)
 
-#v(30mm)
+#v(otsikko-rako)
 
 #include "texaspete-klooni.typ"
