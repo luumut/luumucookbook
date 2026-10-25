@@ -8,18 +8,21 @@
 #align(center)[
   #text(size: 28pt, weight: "bold")[Luumu Cookbook]
 
-  Generoitu:
-  #context datetime.today().display("[year]-[month]-[day]")
+  
 
       #figure(
       image("template/media/katrinplommon.jpg", width: 50%, alt: "alt text"),
       caption: [Bottom text :D],
       numbering: none,
     )
+    #v(6mm)
+
+    PDF generoitu:
+    #context datetime.today().display("[year]-[month]-[day]")
 ]
 
 #pagebreak()
-#outline(title: [Table of Contents], depth: 2)
+#outline(title: [Sisällysluettelo], depth: 2)
 
 #include "juomat/00-index.typ"
 #include "leipae/00-index.typ"
