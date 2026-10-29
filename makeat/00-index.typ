@@ -22,7 +22,7 @@ Tämän otsikon alle makeita jälkiruokia ja muita vastaavia herqquja
 
 #pagebreak(weak: true)
 
-#include "luumupaistos.typ"
+#include "luumuteatteri.typ"
 
 #pagebreak(weak: true)
 

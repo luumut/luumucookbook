@@ -9,7 +9,7 @@
   #v(50mm)
   #text(size: 45pt, weight: "bold", font: "FreeMono")[Luumu Cookbook]
 
-  Luumujen oma cookbook :3 
+  Luumujen oma keittokirja :3
   
   https://github.com/luumut/luumucookbook
 
