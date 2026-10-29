@@ -22,6 +22,10 @@ Tämän otsikon alle makeita jälkiruokia ja muita vastaavia herqquja
 
 #pagebreak(weak: true)
 
+#include "luumupaistos.typ"
+
+#pagebreak(weak: true)
+
 #include "marjajuustokakku.typ"
 
 #pagebreak(weak: true)
