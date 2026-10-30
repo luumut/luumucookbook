@@ -5,7 +5,7 @@
   column-gutter: 8mm,
   align: top,
   [
-    #strong[3-4 ateriaa]
+    3-4 ateriaa
 
     == Työkalut
 
@@ -51,7 +51,7 @@
   [
     #figure(
       image("media/viskipossu.jpg", width: 100%, alt: "tarjoiluehdotus"),
-      caption: [blank image text],
+      caption: [Esimerkkiannos],
       numbering: none,
     )
 

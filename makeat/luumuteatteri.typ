@@ -16,7 +16,7 @@
 
 	Luumupaistos, omenapaistos, mitä ikinä keksitkään. Loistava resepti
 	soveltamiseen.
-
+ 
 	Pohjautuu #link("https://www.k-ruoka.fi/reseptit/luumu-kaurapaistos")[kernel-ruoka] -reseptiin.
 
   == Ainesosat & valmistus

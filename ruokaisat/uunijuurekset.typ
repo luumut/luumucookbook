@@ -64,7 +64,7 @@
   [
     #figure(
       image("media/uunijuurekset.jpg", width: 100%, alt: "tarjoiluehdotus"),
-      caption: [blank image text],
+      caption: [Valmis annos],
       numbering: none,
     )
 

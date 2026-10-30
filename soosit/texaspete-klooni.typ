@@ -34,13 +34,13 @@
   [
     #figure(
       image("media/chilisoos.jpg", width: 100%),
-      caption: [blank image text],
+      caption: [Chilin palat kattilassa],
       numbering: none,
     )
 
     #figure(
       image("media/chilisoos2.jpg", width: 100%),
-      caption: [blank image text],
+      caption: [Lähes valmista soosija],
       numbering: none,
     )
 

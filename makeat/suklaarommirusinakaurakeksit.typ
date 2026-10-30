@@ -32,7 +32,7 @@
   [
     #figure(
       image("media/suklaarommirusinakaurakeksi.jpg", width: 100%, alt: "alt text"),
-      caption: [blank image text],
+      caption: [Keksi],
       numbering: none,
     )
 

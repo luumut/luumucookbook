@@ -40,7 +40,7 @@
   [
     #figure(
       image("media/kanavuoka.jpg", height: 65mm, alt: "tarjoiluehdotus"),
-      caption: [blank image text],
+      caption: [Vuoka],
       numbering: none,
     )
 

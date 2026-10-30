@@ -82,7 +82,7 @@ Glögivalkosuklaa-Baileys-Juustokakku
   [
     #figure(
       image("media/gloegijuustokakku.jpg", width: 100%, alt: "alt text"),
-      caption: [blank image text],
+      caption: [Valmis kakku],
       numbering: none,
     )
 

@@ -9,14 +9,31 @@
 #show heading.where(level: 3): set text(size: 18pt)
 #show heading.where(level: 4): set text(size: 13pt)
 
+
+// Lisää hienon otsikon sivunumeron viereen footeriin
+#set page(
+  footer: context {
+    let headings = query(selector(heading.where(level: 1)).before(here()))
+    align(center)[
+      #if headings.len() > 0 {
+        [#(headings.last().body) - ]
+      }#counter(page).display("1")
+    ]
+  },
+)
+
+// Etusivu
 #align(center)[
-  #v(50mm)
-  #text(size: 45pt, weight: "bold", font: "FreeMono")[Luumu Cookbook]
-
-  Luumujen oma keittokirja :3
+  #v(40mm)
+  #line(length: 80%)
+  #text(size: 56pt, weight: "bold", font: "FreeMono")[Luumu Cookbook]
+  //#line(length: 80%)
   
-  https://github.com/luumut/luumucookbook
+  _Koska ruoanlaitto on kivaa_
 
+  _Luumujen oma keittokirja :3_
+  #v(10mm)
+  
       #figure(
       image("template/media/katrinplommon.jpg", width: 50%, alt: "alt text"),
       caption: [],
@@ -26,15 +43,24 @@
 
     #align(center + bottom)[PDF generoitu:
     #context datetime.today().display("[year]-[month]-[day]")]
-    
+    https://github.com/luumut/luumucookbook
 ]
 #pagebreak()
+
+// Alkusanat -sivu
 = Alkusanat
 Tehtiin tälläinen koska voidaan.
 
 Kiitos cockeille ja toivottavasti resepteistä on iloa lukijalle :3
+
+Tähän voisi tulevaisuudessa ottaa kuvat innokkaista cockeistamme...
 #pagebreak()
+
+// Sisällysluettelo
 #outline(title: [Sisällysluettelo], depth: 2)
+
+
+// Itse cookbook
 
 #include "ruokaisat/00-index.typ"
 #include "makeat/00-index.typ"
@@ -44,3 +70,5 @@ Kiitos cockeille ja toivottavasti resepteistä on iloa lukijalle :3
 
 // Templatesaatana
 #include "template/00-index.typ"
+
+

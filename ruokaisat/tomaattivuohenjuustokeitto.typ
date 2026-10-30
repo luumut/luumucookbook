@@ -24,14 +24,14 @@
     - Sekoitin & Otin
 
     == Valmistus
-    - Kiehuta kattilassa paseeratut tomaatit
-    - Pilko tomaatit ja lisää ne sitten kattilaan (Myös chili?)
-    - Kiehuta 5min tai jotain
-    - Pilko vuohenjuusto ja lisää kattilaan
-    - Keitä 5min tai jotain
-    - Lisää kerma ja mausteet joukkoon
-    - Soseuta
-    - Tarjoa kera ruisleivän ja raejuuston
+    1. Kiehuta kattilassa paseeratut tomaatit
+    2. Pilko tomaatit ja lisää ne sitten kattilaan (Myös chili?)
+    3. Kiehuta 5min tai jotain
+    4. Pilko vuohenjuusto ja lisää kattilaan
+    5. Keitä 5min tai jotain
+    6. Lisää kerma ja mausteet joukkoon
+    7. Soseuta
+    8. Tarjoa kera ruisleivän ja raejuuston
   ],
   [
     #figure(

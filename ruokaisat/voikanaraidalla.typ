@@ -1,4 +1,5 @@
-= Mikontalo Experience (voikanaa ja raitaa)
+= Mikontalo Experience
+_Eli voikanaa ja raitaa_
 
 #grid(
   columns: (1.2fr, 1fr),
@@ -42,7 +43,7 @@
   [
     #figure(
       image("media/mikontaloexperience.jpg", height: 65mm, alt: "tarjoiluehdotus"),
-      caption: [blank image text],
+      caption: [Mikontalo experience],
       numbering: none,
     )
 
