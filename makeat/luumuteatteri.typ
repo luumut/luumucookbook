@@ -5,21 +5,21 @@
   column-gutter: 8mm,
   align: top,
   [
-    == Välineet
-    - Vuoka
+  == Välineet
+  - Vuoka
 	- Uuni
 	- Veitsi
 	- Joku lasta
 	- Kärsivällisyyttä luumuteatterissa
 
-    == Huomioitavaa
+  == Huomioitavaa
 
 	Luumupaistos, omenapaistos, mitä ikinä keksitkään. Loistava resepti
 	soveltamiseen.
 
 	Pohjautuu #link("https://www.k-ruoka.fi/reseptit/luumu-kaurapaistos")[kernel-ruoka] -reseptiin.
 
-    == Ainesosat sekä valmistus vaiheittain
+  == Ainesosat & valmistus
 
 	=== Pohjaseos
 	- 2 kg tuoreita, tummia luumuja

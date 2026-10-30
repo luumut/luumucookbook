@@ -1,4 +1,5 @@
-= Glühwein eli alkoholillinen glögi
+= Glühwein
+_eli alkoholillinen glögi_
 
 #grid(
   columns: (1.2fr, 1fr),

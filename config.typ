@@ -2,4 +2,4 @@
 
 
 // Säätää esim. "ruokaisat" alatekstin välin ennen ensimmäistä reseptiä 
-#let otsikko-rako = 30mm
+#let otsikko-rako = 10mm

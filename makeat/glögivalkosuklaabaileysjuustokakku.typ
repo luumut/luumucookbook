@@ -1,4 +1,5 @@
-= Glögivalkosuklaa-Baileys-Juustokakku
+= Glögijuustokakku
+Glögivalkosuklaa-Baileys-Juustokakku
 
 #grid(
   columns: (1.2fr, 1fr),
@@ -7,11 +8,11 @@
   [
     == Ainesosat
 
-    Pohja:
+    === Pohja:
     - 225g piparkakku (gluteeniton)
     - 75g voi
 
-    Glögikerros:
+    === Glögikerros:
     - 375g mascarpone-juustoa
     - 1,4dl kuohukermaa
     - 1dl tomusokeria
@@ -20,7 +21,7 @@
     - 1dl glögi
     - 4 liivatetta (käytän Meiran, yksi liivatelehti painaa 2g)
 
-    Baileyskerros:
+    === Baileyskerros:
     - 375g mascarpone-juustoa
     - 1,4dl kuohukermaa
     - 1dl tomusokeria
@@ -29,7 +30,7 @@
     - 1dl Baileys-likööriä
     - 4 liivatetta (käytän Meiran, yksi liivatelehti painaa 2g)
 
-    Kiille:
+    === Kiille:
     - 5dl glögiä
     - 4 liivatetta
 

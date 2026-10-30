@@ -1,4 +1,25 @@
-= Lista hyvistä pizzatäytteistä
+= Pizzatäytteistä
+
+Tämän otsikon alla on vinkkejä hyvistä pizzatäytteistä sekä niihin liittyvistä resepteistä
+
+== Reseptit
+
+=== Tomaattikastike
+
+Ainesosat:
+- Purkki Muttin kokonaisia säilyketomaatteja
+- Töräys tomaattipyrettä
+- Ripaus suolaa
+
+Valmistus:
+- Kaada ainesosat astiaan
+- Murskaa käsin tai sauvasekoita tai jotain
+
+Käsin murskaamalla tomaateista jää isompia paloja. Säilyy jääkaapissa monta päivää
+
+
+
+== Lista hyvistä pizzatäytteistä
 
 Lista hyvistä pitsatäytteistä:
 - tomaatti
@@ -12,7 +33,7 @@ Lista hyvistä pitsatäytteistä:
 - katkarapu
 - salaattijuusto
 
-Lista huonoista pitsatäytteistä:
+== Lista huonoista pitsatäytteistä:
 - banaani
 - ananas
 - vaahtokarkki

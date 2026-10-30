@@ -4,7 +4,7 @@
 = Ruokaisat
 #line(length: 100%)
 
-Tämän osion alla on ruokaisia ohjeita
+Tämän osion alla on ruokaisia ohjeita, joiden ruoat voisivat olla vaikka pääruokia tai jotain
 
 #set heading(offset: 1)
 

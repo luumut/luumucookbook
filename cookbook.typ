@@ -4,6 +4,10 @@
 #set smartquote(enabled: false)
 #set heading(numbering: none)
 #show link: set text(fill: blue)
+#show heading.where(level: 1): set text(size: 42pt, font: "FreeMono")
+#show heading.where(level: 2): set text(size: 28pt, font: "FreeMono")
+#show heading.where(level: 3): set text(size: 18pt)
+#show heading.where(level: 4): set text(size: 13pt)
 
 #align(center)[
   #v(50mm)
