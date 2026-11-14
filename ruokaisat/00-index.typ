@@ -30,6 +30,10 @@ Tämän osion alla on ruokaisia ohjeita, joiden ruoat voisivat olla vaikka pää
 
 #pagebreak(weak: true)
 
+#include "kaalilaatikko.typ"
+
+#pagebreak(weak: true)
+
 #include "kanacurry.typ"
 
 #pagebreak(weak: true)
